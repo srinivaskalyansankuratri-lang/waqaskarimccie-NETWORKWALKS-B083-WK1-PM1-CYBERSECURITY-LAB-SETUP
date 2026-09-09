@@ -2,13 +2,16 @@
 
 **Building an isolated virtual lab environment for cybersecurity and ethical hacking practice**
 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-2026.2-557C94?style=flat-square)
-![Linux](https://img.shields.io/badge/Skill-Linux-333333?style=flat-square)
-![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-Lab-8A2BE2?style=flat-square)
-![Virtualization](https://img.shields.io/badge/Skill-Virtualization-FF6600?style=flat-square)
-![GitHub](https://img.shields.io/badge/Platform-GitHub-181717?style=flat-square)
-![NetworkWalks](https://img.shields.io/badge/Training-NetworkWalks-00A86B?style=flat-square)
-![Ethical Hacking](https://img.shields.io/badge/Focus-Ethical%20Hacking-B22222?style=flat-square)
+![Cybersecurity](https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000)
+![VirtualBox](https://img.shields.io/badge/Ver-VirtualBox%207.2-0070C0?style=flat-square&labelColor=000000)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-v2026.2-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Skill-Linux-404040?style=flat-square&labelColor=C00000)
+![Network](https://img.shields.io/badge/Network-10.0.0.0%2F24-238F89?style=flat-square&labelColor=000000)
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-C000000?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white)
+![Virtualization](https://img.shields.io/badge/Skill-Virtualization-404040?style=flat-square&labelColor=C00000)
+![GitHub](https://img.shields.io/badge/GitHub-404040?style=flat-square&labelColor=0070C0&logo=github&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white)
+[![Author](https://img.shields.io/badge/Author-Srinivas_Kalyan-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srinivaskalyansankuratri-lang)
 
 ---
 
@@ -471,7 +474,8 @@ The following screenshots will be added to document the lab setup:
 
 Information Technology Graduate  
 Aspiring Cybersecurity
-linkedin:- https://www.linkedin.com/in/srinivaskalyan-sankuratri-65400b301/
+
+- linkedin:- [Srinivas Kalyan] https://www.linkedin.com/in/srinivaskalyan-sankuratri-65400b301/
 
 ---
 
