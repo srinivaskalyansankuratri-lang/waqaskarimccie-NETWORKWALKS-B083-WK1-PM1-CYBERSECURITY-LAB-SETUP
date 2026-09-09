@@ -238,7 +238,7 @@ Expected route:
 default via 10.0.0.1 dev eth0
 ```
 
-![Kali Linux Network Settings](kali-network-seetings)
+![Kali Linux Network Settings](kali-network-seetings.jpeg)
 
 ---
 
@@ -286,9 +286,7 @@ Clean Kali - Network Setup
 
 The snapshot provides a clean starting point for future cybersecurity exercises.
 
-> 📸 **Snapshot Screenshot**  
-> Screenshot will be added here.
-
+![Clean Kali Snapshot](snap-shot.jpeg)
 ---
 
 # 🔎 Lab Verification
@@ -461,7 +459,7 @@ The following screenshots will be added to document the lab setup:
 3. **Kali Linux Virtual Machine**
 4. **Kali Linux Network Configuration**
 5. **Clean Snapshot**
-6. **Network Verification**
+
 
 > Screenshots will be added after completing the GitHub image upload process.
 
@@ -472,7 +470,8 @@ The following screenshots will be added to document the lab setup:
 **Srinivas Kalyan**
 
 Information Technology Graduate  
-Cybersecurity Learner
+Aspiring Cybersecurity
+linkedin:- https://www.linkedin.com/in/srinivaskalyan-sankuratri-65400b301/
 
 ---
 
