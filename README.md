@@ -59,7 +59,7 @@ All activities performed in this environment are intended for educational and au
 ---
 
 ## 🏗️ Lab Architecture
-![Lab Architecture](1-lab-architecture.png.jpeg)
+![Lab Architecture](1-lab-architecture.png)
 
 The lab is designed using VirtualBox with Kali Linux connected to a private NAT Network.
 
