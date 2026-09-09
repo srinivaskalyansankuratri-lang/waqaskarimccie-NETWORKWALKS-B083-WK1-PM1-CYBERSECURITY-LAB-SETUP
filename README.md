@@ -90,7 +90,7 @@ The lab is designed using VirtualBox with Kali Linux connected to a private NAT 
 └─────────────────────────────────────────────┘
 ```
 
-![Cybersecurity Lab Architecture](Screenshot%202026-09-08%20161630.png)
+![Cybersecurity Lab Architecture](1-screenshot-title-image.png)
 
 ---
 
