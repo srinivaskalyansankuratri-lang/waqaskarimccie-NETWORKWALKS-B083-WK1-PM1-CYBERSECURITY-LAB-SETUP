@@ -197,7 +197,7 @@ Network Name:    NatNetwork
 Adapter Type:    Intel PRO/1000 MT Desktop (82540EM)
 ```
 
-![Kali Linux Virtual Machine](kali linux.png)
+![Kali Linux Virtual Machine](kali%20linux.png)
 
 ---
 
@@ -238,7 +238,7 @@ Expected route:
 default via 10.0.0.1 dev eth0
 ```
 
-![Kali Linux Network Settings](network-settings.png)
+![Kali Linux Network Settings](kali-network-seetings)
 
 ---
 
