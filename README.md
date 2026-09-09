@@ -90,7 +90,7 @@ The lab is designed using VirtualBox with Kali Linux connected to a private NAT 
 └─────────────────────────────────────────────┘
 ```
 
-![Lab Architecture](1-lab-architecture.png)
+![Lab Architecture](1-lab-architecture.png.jpeg)
 
 ---
 
