@@ -154,6 +154,7 @@ https://www.virtualbox.org/wiki/Downloads
 
 A private NAT Network named `NatNetwork` was configured in VirtualBox.
 
+
 ### Network configuration
 
 ```text
@@ -172,8 +173,7 @@ Kali Linux:        10.0.0.2
 Future VMs:        10.0.0.3 - 10.0.0.99
 ```
 
-> 📸 **VirtualBox NAT Network Screenshot**  
-> Screenshot will be added here.
+![NAT Network Settings](network-settings.png)
 
 ---
 
